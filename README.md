@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MonikaDalekova (Hristova).
+- 👋 Hi, I’m @MonikaDalekova (Hristova) from Bulgaria.
 - 👀 I’m interested in technology, literature, animal welfare and many other topics.
 - 🌱 I’m currently learning Python programming language.
 - 💞️ I’m looking to collaborate on Python projects. I am also interested in insurance software projects.
